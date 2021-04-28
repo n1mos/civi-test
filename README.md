@@ -29,7 +29,8 @@
 1. Clone this repository.
 2. Install the dependencies by running `yarn`.
 3. Change the IP in `App/Config` to your machine IP.
-4. Run `yarn start:api` to start the API.
+4. Install the API dependencies by running `cd Api && yarn`.
+5. Run `yarn start:api` to start the API.
 
 ### Android
 

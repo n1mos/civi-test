@@ -1,4 +1,9 @@
 # Civi Take-Home Exercise
+
+<div style="margin-bottom: 20px">
+    <img src="./demo.gif">
+</div>
+
 ## Layout
 
 - [`App/Components`](App/Components): presentational components
